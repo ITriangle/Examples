@@ -1,3 +1,5 @@
+package Normal;
+
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import org.junit.Test;

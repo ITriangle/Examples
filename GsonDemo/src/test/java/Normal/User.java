@@ -1,3 +1,5 @@
+package Normal;
+
 /**
  * Created by seentech on 2017/2/7.
  */
@@ -14,7 +16,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "User{" +
+        return "Normal.User{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", email='" + email + '\'' +

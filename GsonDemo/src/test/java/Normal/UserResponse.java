@@ -1,3 +1,5 @@
+package Normal;
+
 /**
  * Created by seentech on 2017/2/7.
  */
@@ -26,7 +28,7 @@ public class UserResponse {
 
     @Override
     public String toString() {
-        return "UserResponse{" +
+        return "Normal.UserResponse{" +
                 "code=" + code +
                 ", message='" + message + '\'' +
                 ", data=" + data +
